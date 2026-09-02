@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @Maheshwari-Tech
-- 👀 I’m interested in Learning Tech
-- 🌱 I’m currently learning Python, Flask, Django, ML, AI.
-- 💞️ I’m looking to collaborate on any tech projects.
-- 📫 How to reach me - contact : 
+# Engineering, Technology & Ideas
 
-- ⚡ Fun fact: @@@@
+A shared GitHub workspace by **Sanjay Gandhi** and **Shalini Thebaria**, working across software engineering, technology leadership, architecture, AI, and problem solving.
 
-<!---
-Maheshwari-Tech/Maheshwari-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Sanjay Gandhi
+
+** Tech Lead · Software Architect**
+
+🌐 [tech-lead.in](https://tech-lead.in)
+
+Focus: **Technology Leadership · Architecture · System Design · Distributed Systems · Engineering · AI**
+
+### Shalini Thebaria
+
+**Technology · Engineering · Innovation**
+
+🌐 [shalinithebaria.com](https://shalinithebaria.com?utm_source=chatgpt.com)
+
+---
+
+## What We Build
+
+* Software & Engineering Projects
+* System Design & Architecture
+* AI & Developer Tools
+* Automation & Experiments
+* Technical Prototypes
+* Algorithms & Problem Solving
+* Collaborative Projects with **US-based Partners**
+
+## Engineering Principles
+
+**Solve the problem.**
+**Keep complexity intentional.**
+**Design for change.**
+**Build for scale.**
+**Raise the engineering bar.**
+
+> **Build. Learn. Share.**
