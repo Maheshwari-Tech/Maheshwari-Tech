@@ -4,15 +4,15 @@ A shared GitHub workspace by **Sanjay Gandhi** and **Shalini Thebaria**, working
 
 ### Sanjay Gandhi
 
-** Tech Lead · Software Architect**
+** Tech Lead · Software Architect **
 
 🌐 [tech-lead.in](https://tech-lead.in)
 
-Focus: **Technology Leadership · Architecture · System Design · Distributed Systems · Engineering · AI**
+Focus: **Leadership and Strategy · Architecture · AI - Machine Learning and Deep Learning**
 
 ### Shalini Thebaria
 
-**Technology · Engineering · Innovation**
+Focus : **Engineering · DevOps and SRE · Agentic AI**
 
 🌐 [shalinithebaria.com](https://shalinithebaria.com?utm_source=chatgpt.com)
 
@@ -26,7 +26,7 @@ Focus: **Technology Leadership · Architecture · System Design · Distributed S
 * Automation & Experiments
 * Technical Prototypes
 * Algorithms & Problem Solving
-* Collaborative Projects with **US-based Partners**
+
 
 ## Engineering Principles
 
